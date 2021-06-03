@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last sayings of a mouse lately starved in a cup-board. As they were taken, in short-hand, by a zealous rat-catcher, who list'ned at the key-hole of the cup-board door.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25651</idno><idno type="EEBO-CITATION">99882973</idno>
+  <idno type="VID">200785</idno>
+  <idno type="EEBO-PROQUEST">2240890739</idno>
+  
+            <idno type="OCLC"> 12280299</idno>
+            <idno type="STC">Wing L502</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1872.a.1.[36]</idno>
+            <idno type="STC">ESTC R16411</idno>
+            <idno type="PROQUEST">ocm99882973</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882973e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200785)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A7:2[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last sayings of a mouse lately starved in a cup-board. As they were taken, in short-hand, by a zealous rat-catcher, who list'ned at the key-hole of the cup-board door.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.P.Q.L.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Wretch that I am! ---- and is it come to this?".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:200785:1"/>
+            <head>The Last Sayings OF A MOUSE Lately starved in a CUP-BOARD.</head>
+            <head type="sub">As they were taken, in Short-Hand, by a <hi>zealous RAT-CATCHER,</hi> who list'ned at the Key-hole of the <hi>Cup-board</hi> Door.</head>
+            <head type="sub">
+               <add>An Abuse to Sheriff Bethell for keeping no house.</add>
+            </head>
+            <lg>
+               <l>WRetch that I am!—and is it come to This?</l>
+               <l>O short continuance of Earthly Bliss!</l>
+               <l>Did I, for this, forsake my Countrey Ease,</l>
+               <l>My Liberty, my Bacon, Beans, and Pease?</l>
+               <l>Call ye me This the <hi>Breeding</hi> of the Town,</l>
+               <l>Which my young Master brag'd when he came down?</l>
+               <l>Fool that I was!—I heard my Father say,</l>
+               <l>(A Reverend Mouse he was, and his Beard gray)</l>
+               <l>
+                  <hi>Young <hi>Hunt-crum,</hi> mark me well, you needs must rome,</hi>
+               </l>
+               <l>
+                  <hi>And leave me and your Mother here at home;</hi>
+               </l>
+               <l>
+                  <hi>Great is your Spirit, at <hi>high food</hi> you aim,</hi>
+               </l>
+               <l>
+                  <hi>But have a care—believe not <hi>lying Fame;</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Vast Bodies oft are mov'd by slender Springs,</hi>
+               </l>
+               <l>
+                  <hi>And <hi>great Men,</hi> and <hi>great Tables</hi> are two things;</hi>
+               </l>
+               <l>
+                  <hi>Assure thy self <hi>all</hi> is not <hi>Gold</hi> that shines,</hi>
+               </l>
+               <l>
+                  <hi>He that looks alwayes <hi>fat,</hi> not alwayes <hi>dines</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>For I have seen One strut in a lac'd Cloak,</hi>
+               </l>
+               <l>
+                  <hi>And at the same time heard his Belly croak.</hi>
+               </l>
+               <l>By sad Experience how I find too well,</l>
+               <l>Old <hi>Hunt-crum</hi> was an arrant <hi>Sidrophel.</hi>
+               </l>
+               <l>And must I dy? and is there no Relief?</l>
+               <l>No Cheese, though I give over thoughts of Beef?</l>
+               <l>Where is grave <hi>Madge,</hi> and brisk <hi>Grimalkin</hi> now?</l>
+               <l>Before whose feet our Race was wont to bow!</l>
+               <pb n="2" facs="tcp:200785:2"/>
+               <l> No <hi>Owl,</hi> no <hi>Cat</hi> to end my woful dayes?</l>
+               <l>No <hi>Gresham Engine</hi> my lean Corps to squeeze?</l>
+               <l>I'd rather fall to Foes a noble Prey,</l>
+               <l>Than squeek my Soul out under Lock and Key.</l>
+               <l>What's This?—a pissing Candle's latter end?</l>
+               <l>My dear-beloved <hi>Countrey-Save-all</hi> Friend?</l>
+               <l>Thou dreadful Emblem of Mortality,</l>
+               <l>Inglorious <hi>Affront</hi> to <hi>Life</hi> and me!</l>
+               <l>O <hi>barbarous Drollery</hi> of my cruel Fate!</l>
+               <l>This shadow of a Comfort comes too late:</l>
+               <l>I faint—What's this? a <hi>Wafer?</hi>—Good again!</l>
+               <l>What mean the Fates thus to prolong my pain?</l>
+               <lg>
+                  <l>Though <hi>Mice</hi> of greater Quality than I</l>
+                  <l>Can eat such things, and be content to dye,</l>
+                  <l>Give me a morsel of good Bread, I cry.</l>
+               </lg>
+               <l>And you my brethren <hi>Mice,</hi> if any be</l>
+               <l>As yet unstarv'd, in all our Family;</l>
+               <l>From your <hi>obscure Retreats,</hi> rise and appear,</l>
+               <l>To you, or to your Ghosts, I now draw near:</l>
+               <l>To my original Dust I haste apace,</l>
+               <l>Observe my hollow Eyes, and meager Face;</l>
+               <l>And learn from me the sad Reverse of Fate,</l>
+               <l>'Tis better to be <hi>Innocent</hi> than <hi>Great.</hi>
+               </l>
+               <l>
+                  <hi>Good Consciences</hi> and <hi>Bellies full,</hi> say I,</l>
+               <l>Exceeds the Pomp that onely feeds the Eye:</l>
+               <l>Farewel—You see (my Friends) that knew me once</l>
+               <l>Pamper'd and smooth, reduc'd to skin and bones,</l>
+               <l>Poor as a Church-mouse!—O I faint! I dye!</l>
+               <l>Fly, fly from <hi>Cat</hi> in shape of <hi>Famine,</hi> fly:</l>
+               <lg>
+                  <l>Whilst at my Death I my Ambition rue,</l>
+                  <l>In this my <hi>Cup-board</hi> and my <hi>Coffin</hi> too;</l>
+                  <l>Farewel to <hi>Victuals, Greatness,</hi> and to <hi>You.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>S. P. Q. L.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
